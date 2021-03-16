@@ -3,6 +3,31 @@
 // Days and months must be listed in the order they should display.
 
 const locales = {
+  'cs-CZ': {
+    days: [
+      'Ne',
+      'Po',
+      'Út',
+      'St',
+      'Čt',
+      'Pá',
+      'So'
+    ],
+    months: [
+      `Leden`,
+      `Únor`,
+      `Březen`,
+      `Duben`,
+      `Květen`,
+      `Červen`,
+      `Červenec`,
+      `Srpen`,
+      `Září`,
+      `Říjen`,
+      `Listopad`,
+      `Prosinec`
+    ]
+  },
   'en_en-US_en-UK': {
     days: [
       `Su`,
